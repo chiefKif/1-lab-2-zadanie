@@ -8,6 +8,7 @@ namespace _0_opp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("AA");
+            Console.Write("SS");
         }
     }
 }
