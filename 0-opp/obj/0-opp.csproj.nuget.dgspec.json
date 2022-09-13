@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Евгений\\source\\repos\\0-opp\\0-opp\\0-opp.csproj": {}
+    "C:\\Users\\Евгений\\source\\repos\\checkCopy\\1-lab-2-zadanie\\0-opp\\0-opp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Евгений\\source\\repos\\0-opp\\0-opp\\0-opp.csproj": {
+    "C:\\Users\\Евгений\\source\\repos\\checkCopy\\1-lab-2-zadanie\\0-opp\\0-opp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евгений\\source\\repos\\0-opp\\0-opp\\0-opp.csproj",
+        "projectUniqueName": "C:\\Users\\Евгений\\source\\repos\\checkCopy\\1-lab-2-zadanie\\0-opp\\0-opp.csproj",
         "projectName": "0-opp",
-        "projectPath": "C:\\Users\\Евгений\\source\\repos\\0-opp\\0-opp\\0-opp.csproj",
+        "projectPath": "C:\\Users\\Евгений\\source\\repos\\checkCopy\\1-lab-2-zadanie\\0-opp\\0-opp.csproj",
         "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евгений\\source\\repos\\0-opp\\0-opp\\obj\\",
+        "outputPath": "C:\\Users\\Евгений\\source\\repos\\checkCopy\\1-lab-2-zadanie\\0-opp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

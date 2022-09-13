@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G34nJEmvUccgs8Yh6/FIMzaXzHMmbPcdc7DxvGiG3ejBH/PAOCwc22nUNFHCeKCG2Kx8EPb9V/IUoCe3faeXzw==",
+  "dgSpecHash": "pjKws6waIc6CC8IkimpnzaQoQ1QZnZMzAcQ9BMzZ4ltB1FfcgZc6dLqaCuyPoBMjCVGN6O352g6aDpTUpmRtiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евгений\\source\\repos\\0-opp\\0-opp\\0-opp.csproj",
+  "projectFilePath": "C:\\Users\\Евгений\\source\\repos\\checkCopy\\1-lab-2-zadanie\\0-opp\\0-opp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Евгений\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
