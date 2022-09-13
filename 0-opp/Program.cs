@@ -7,11 +7,8 @@ namespace _0_opp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-<<<<<<< HEAD
             Console.Write("F");
-=======
             Console.Write("AAA");
->>>>>>> test
         }
     }
 }
